@@ -1,37 +1,122 @@
-## Hello my name is leeori
+<!DOCTYPE html>
+<html>
+<head id="ctl00_ctl00_Head1"><title>
+	ilovecocks.store - Registered at Namecheap.com
+</title><meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <link href="http://i.cdnpark.com/themes/assets/style.css" rel="stylesheet" type="text/css" media="screen" />
+	<link href="http://i.cdnpark.com/themes/registrar/style_namecheap.css" rel="stylesheet" type="text/css" media="screen">
+	<script type="text/javascript">document.write('<script src="http://parkingcrew.net/jsparkcaf.php?regcn=243142&_v=2&_h=' + encodeURIComponent(location.host) + '&_t=' + (new Date().getTime()) + '" type="text/javascript"></scr' + 'ipt>');</script>
+<meta name="Generator" content="Sitefinity 3.7.2136.240:1" /></head>
+<body>
+    <form name="aspnetForm" method="post" action="./registered.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MWRkkEey0aPLtTySuSZQFfD7ukHUQtZFnXg/qcO09F32euw=" />
+</div>
 
-You can use the [editor on GitHub](https://github.com/leeoricd/leeoricd.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="15E68AF1" />
+</div>
+    
+    <div id="wrapper">
 
-### Markdown
+		<!-- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½E-->
+		<div id="twoclick" style="display: none;">
+		<div id="holder">
+				<div id="header">
+					<div class="width">
+						<div id="logo">
+							<p>This domain is registered at<span id="regName"> Namecheap</span><br />
+							<a href="//www.namecheap.com/?utm_source=parkingpage&utm_medium=referral&utm_campaign=parkingpage"><img src="http://i.cdnpark.com/themes/registrar/images/logo_namecheap.png" alt="Namecheap"></a><br />
+							
+                            <span id="ctl00_ctl00_base_content_registeredOrExpiredText_Two">This domain was recently registered at Namecheap. Please check back later!</span>.</p>
+						</div>
+						<h1 id="domaintitle"><a href="#">ilovecocks.store</a></h1>
+					</div>
+				</div><!--header-->
+				<div id="main" class="width">
+					<div class="content">
+						<div id="tc_holder1" class="tcblock"></div>
+						<div class="fix"></div>
+					</div>
+					<div id="form"></div>
+				</div><!--main-->
+			</div>
+		</div><!--twoclick-->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+		<!-- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½E-->
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+		<!-- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½E-->
+		<div id="oneclick" style="display: none">
+			<div id="header">
+				<div class="width">
+					<div id="logo">
+						<p>This domain is registered at<span id="regName"> Namecheap</span><br />
+						<a href="javascript:void(0);" data-href="https://www.namecheap.com/?utm_source=parkingpage&utm_medium=referral&utm_campaign=parkingpage" onclick="window.open(this.getAttribute('data-href'));return false;" rel="noindex,nofollow"><img src="http://i.cdnpark.com/themes/registrar/images/logo_namecheap.png"></a><br />
+                        <span id="ctl00_ctl00_base_content_registeredOrExpiredText_One">This domain was recently registered at Namecheap. Please check back later!</span>.</p>
+					</div>
+					<h1 id="domaintitle"><a href="#">ilovecocks.store</a></h1>
+				</div>
+			</div><!--header-->
+			<div id="main" class="width">
+				<div id='ads'></div>
+				<div id="sidebar"></div>
+				<div class="fix"></div>
+				<div id="form"></div>
+			</div><!--main-->
+		</div><!--onelick-->
+		<!-- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½E-->
 
-- Bulleted
-- List
+	</div><!--wrapper-->
+	<div style="clear: both;"></div>
+    
+    
 
-1. Numbered
-2. List
+	<div id="footer" class="width">
+		2022 Copyright. All Rights Reserved. <br/><br/>
+		I like pizza. :)
+        <br/><br/><a onclick="showPolicy();" href="javascript:void(0);">Privacy Policy</a>
+	</div>
+    
+    
+<div class="trackingcontainer">
 
-**Bold** and _Italic_ and `Code` text
+</div>
 
-[Link](url) and ![Image](src)
-```
+    <script>
+        function showPolicy() {
+            policywnd = window.open('http://www.parkingcrew.net/privacy.html', 'pcrew_policy', 'width=890,height=330,left=200,top=200,menubar=no,status=yes,toolbar=no'); policywnd.focus();
+        }
+    </script>
+	<script>
+		const replacementLink = 'namecheap.com';
+		const host = document.location.host.replace('www.', '');
+		function replaceUtmSource(source) {
+			return source.replace('utm_source=parkingpage', 'utm_source=' + host);
+		}
+		for (const link of Array.from(document.getElementsByTagName('a'))) {
+			const dataHrefValue = link.getAttribute('data-href');
+			if (dataHrefValue && dataHrefValue.includes(replacementLink)) {
+				link.setAttribute('data-href', replaceUtmSource(dataHrefValue));
+				continue;
+			}
+			const hrefValue = link.getAttribute('href');
+			if (hrefValue && hrefValue.includes(replacementLink)) {
+				link.setAttribute('href', replaceUtmSource(hrefValue));
+				continue;
+			}
+		}
+	</script>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leeoricd/leeoricd.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    
+    
+    
+    
+    
+    
+</form>
+    <form id="clientForm" action=""></form>
+</body>
+</html>
